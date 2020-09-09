@@ -1,0 +1,35 @@
+#EXTM3
+#EXTINF:1 ,U1 Presentacion
+http://fast.wistia.net/embed/medias/cr8rcwipgw.m3u8
+#EXTINF:1 ,U1 Influencias
+http://fast.wistia.net/embed/medias/13dkh74res.m3u8
+#EXTINF:1 ,U1 ¿Qué haremos en el curso?
+http://fast.wistia.net/embed/medias/9sit6i3tgr.m3u8
+#EXTINF:1 ,U2 Qué es un diseñador de juego y tipos
+http://fast.wistia.net/embed/medias/qlh0kfjgow.m3u8
+#EXTINF:1 ,U2 Fases del desarrollo de un juego
+http://fast.wistia.net/embed/medias/m74jdc2tom.m3u8
+#EXTINF:1 ,U2 Herramientas
+http://fast.wistia.net/embed/medias/cc9o6s98gv.m3u8
+#EXTINF:1 ,U3 Idea
+http://fast.wistia.net/embed/medias/w5cam4jojk.m3u8
+#EXTINF:1 ,U3 Qué es un pitch, para qué sirve y en qué partes se divide
+http://fast.wistia.net/embed/medias/jaleo0si6k.m3u8
+#EXTINF:1 ,U3 Pitch: descripción del juego
+http://fast.wistia.net/embed/medias/o821ihi7au.m3u8
+#EXTINF:1 ,U3 Pitch: descripción del gameplay, las tres C: Camera, Control, Character
+http://fast.wistia.net/embed/medias/u22k4900ze.m3u8
+#EXTINF:1 ,U3 Pitch: estilo visual
+http://fast.wistia.net/embed/medias/gdxa0g1rfk.m3u8
+#EXTINF:1 ,U3 Pitch: alcance del juego
+http://fast.wistia.net/embed/medias/260beuim6m.m3u8
+#EXTINF:1 ,U4 Maquetación final
+http://fast.wistia.net/embed/medias/1ziozvzbvq.m3u8
+#EXTINF:1 ,U4 ¿Cómo enviar tu pitch?
+http://fast.wistia.net/embed/medias/3dqcm427nb.m3u8
+#EXTINF:1 ,U4 Siguientes pasos: documentación de alto nivel y prototipado
+http://fast.wistia.net/embed/medias/h2pio53a7u.m3u8
+#EXTINF:1 ,U4 Mis experiencias
+http://fast.wistia.net/embed/medias/9gjmppojyr.m3u8
+#EXTINF:1 ,
+http://fast.wistia.net/embed/medias/g57asl95fv.m3u8
