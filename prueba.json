@@ -1,0 +1,81 @@
+{
+	"data": {
+		"courses": {
+			"edges": [{
+					"node": {
+						"id": "1203",
+						"aasmState": "published",
+						"title": "Técnicas de ilustración artística con grafito",
+						"courseUnits": [{
+								"courseLessons": [{
+										"videoItem": {
+											"id": "19402"
+										}
+									}, {
+										"videoItem": {
+											"id": "19403"
+										}
+									}, {
+										"videoItem": {
+											"id": "19413"
+										}
+									}
+								]
+							}, {
+								"courseLessons": [{
+										"videoItem": {
+											"id": "19424"
+										}
+									}, {
+										"videoItem": {
+											"id": "19425"
+										}
+									}, {
+										"videoItem": {
+											"id": "19426"
+										}
+									}, {
+										"videoItem": {
+											"id": "19427"
+										}
+									}
+								]
+							}, {
+								"courseLessons": [{
+										"videoItem": {
+											"id": "19466"
+										}
+									}, {
+										"videoItem": {
+											"id": "19467"
+										}
+									}, {
+										"videoItem": {
+											"id": "19468"
+										}
+									}
+								]
+							}, {
+								"courseLessons": [{
+										"videoItem": {
+											"id": "19469"
+										}
+									}, {
+										"videoItem": {
+											"id": "19470"
+										}
+									}
+								]
+							}
+						],
+						"finalProject": {
+							"videoItem": {
+								"id": "19531"
+							}
+						}
+					}
+				}
+			]
+		}
+	}
+}
