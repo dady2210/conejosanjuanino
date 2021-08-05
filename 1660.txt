@@ -1,0 +1,1 @@
+{"data":{"course":{"nodes":[{"courses":[],"title":"X Introduction to UI Design","isBasic":false,"teacher":{"amplitudeUser":{"name":"Stanislav","lastname":"Hristov"}},"courseUnits":[],"finalProject":{"videoItem":null}}]}}}
